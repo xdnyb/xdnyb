@@ -6,7 +6,7 @@ I'm currently learning game development.
 <summary>⚡️ More about my coding life</summary>
 <br />
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xdnyb&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xdnyb&theme=transparent)
 
 ![xdnyb's github stats](https://github-readme-stats.vercel.app/api?username=xdnyb&count_private=true&show_icons=true&theme=transparent)
 
