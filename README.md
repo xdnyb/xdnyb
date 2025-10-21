@@ -8,7 +8,7 @@ I'm currently learning game development.
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xdnyb&count_private=true)
 
-![xdnyb's github stats](https://github-readme-stats.vercel.app/api?username=xdnyb&count_private=true&show_icons=true)
+![xdnyb's github stats](https://github-readme-stats.vercel.app/api?username=xdnyb&count_private=true&show_icons=true&theme=transparent)
 
 </details>
 <!--
