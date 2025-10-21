@@ -2,7 +2,7 @@
 
 I'm currently learning game development.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xdnyb](https://github.com/xdnyb/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xdnyb)
 
 <!--
 **xdnyb/xdnyb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
