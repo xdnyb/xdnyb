@@ -6,11 +6,11 @@ I'm currently learning game development.
 <summary>⚡️ More about my coding life</summary>
 <br />
   <p align="center">
-    <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=xdnyb&hide_border=true&theme=transparent" />
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=xdnyb&hide_border=true&theme=transparent" />
   </p>
   <p align="center">
     <img height="137px" src="https://github-readme-stats.vercel.app/api?username=xdnyb&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=transparent" />
-    <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xdnyb&hide_title=true&hide_border=true&layout=compact&theme=transparent" />
+    <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xdnyb&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=transparent" />
   </p>
 
 </details>
